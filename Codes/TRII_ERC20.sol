@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2023-03-31
+
 */
 
 //TRII Token ERC20 Audited by TRII DIENSTLEISTUNG S.A.R.L
