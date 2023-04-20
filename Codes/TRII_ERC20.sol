@@ -815,7 +815,7 @@ contract TRII is Context, IERC20, Ownable {
         payable(msg.sender).transfer(weiAmount);
     }
 
-    function rescueAnyBEP20Tokens(
+    function rescueAnyERC20Tokens(
         address _tokenAddr,
         address _to,
         uint256 _amount
