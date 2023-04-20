@@ -166,8 +166,8 @@ contract TRII is Context, IERC20, Ownable {
     address public devWallet = 0x5d1e311c9a4B56814283ad4e430D912bc053E677;
     address public teamWallet = 0xE73B05de46174b70f9141273CA12799066882bAe;
 
-    string private constant _name = "TRII Token ERC20";
-    string private constant _symbol = "TRIIERC20";
+    string private constant _name = "TRII Token";
+    string private constant _symbol = "TRII";
 
     struct Taxes {
         uint256 rfi;
